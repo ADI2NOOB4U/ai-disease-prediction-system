@@ -8,7 +8,7 @@ When the user inputs symptoms, the model processes them and predicts the health 
 
 ---
 
-## 🚀 Features
+##  Features
 - Accepts symptoms from the user
 - Shows the full list of valid symptoms
 - Machine Learning (Naive Bayes) model used
@@ -18,7 +18,7 @@ When the user inputs symptoms, the model processes them and predicts the health 
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - Scikit-Learn (sklearn)
@@ -27,5 +27,9 @@ When the user inputs symptoms, the model processes them and predicts the health 
 
 ---
 
-## 📌 How to Run
-1. Install the required packages:
+##  How to Run
+1. Install the required packages: pip install scikit-learn pandas
+2. Run the script using:python aiml.py
+3. Enter symptoms separated by commas.
+
+---
